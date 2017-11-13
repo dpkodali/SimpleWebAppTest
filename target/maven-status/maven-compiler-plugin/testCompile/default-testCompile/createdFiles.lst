@@ -1,1 +1,3 @@
 WebAppTest\HeadlessBrowserTest.class
+WebAppTest\TestChromeOnGrid.class
+WebAppTest\TestFFonGrid.class

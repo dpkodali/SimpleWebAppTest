@@ -4,6 +4,8 @@
   <test name="Test">
     <classes>
       <class name="WebAppTest.HeadlessBrowserTest"/>
+      <class name="WebAppTest.TestFFonGrid"/>
+      <class name="WebAppTest.TestChromeOnGrid"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
